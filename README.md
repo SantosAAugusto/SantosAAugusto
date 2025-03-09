@@ -9,7 +9,8 @@
 
 ---
 
-💼 ##Experience
+## 💼 Experience
+
 **`Corporate`**
 
 - **Geoprocessing Data Intern**: During the year 2024, I worked as an intern at a company located in the Piracicaba Technology Park - SP. During this period, I developed activities such as automating PDF generation, processing data in various formats using Python and Excel, and manipulating geographic data with GIS software like QGIS and ArcGIS Pro.
