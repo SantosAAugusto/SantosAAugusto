@@ -20,6 +20,8 @@ como automação de geração de PDF's, tratamento de dados de formatos diversos
 
 ---
 
+## Hard Skills
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -69,3 +71,9 @@ como automação de geração de PDF's, tratamento de dados de formatos diversos
 
 <br/>
 <br/>
+
+### Softwares
+
+- **Microsoft Excel**: Data Manipulation and Data Analysis.
+- **Power BI**: Create reports and visual analytics to turn data into insights.
+- **Google Sheets**: Team Work, Data Manipulation and Data Analysis. 
