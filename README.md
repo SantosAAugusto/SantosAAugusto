@@ -2,8 +2,10 @@
 
 **`Analista de Dados`**
 
-Me chamo Antonio Augusto Cheirubim Santos, tenho 22 anos e sou natural do Paraná. Possuo forte perfil analítico, com extrema orientação ao uso de dados para solução de problemas e tomada de decisões.
-Desde meu ingresso na Universidade, procurei me desenvolver no uso de ferramentas para análise de conjuntos de dados em diferentes áreas, levando-me às experiências citadas abaixo.
+- Hi! I'm Antonio. I'm 22 years old and I'm from Paraná.
+- With a strong analytical profile, I have a highly data-driven approach to problem-solving and decision-making.
+- Since entering university, I have focused on developing skills in data analysis tools across various fields.
+- This dedication has led to the experiences listed below.
 
 ---
 
