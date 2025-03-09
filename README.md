@@ -2,12 +2,12 @@
 
 **`Analista de Dados`**
 
-Me chamo Antonio Augusto Cheirubim Santos, tenho 22 anos e sou natural do Paraná. Possuo forte perfil analítico, com extrema orientação ao uso de dados para soluação de problemas e tomada de decisões.
+Me chamo Antonio Augusto Cheirubim Santos, tenho 22 anos e sou natural do Paraná. Possuo forte perfil analítico, com extrema orientação ao uso de dados para solução de problemas e tomada de decisões.
 Desde meu ingresso na Universidade, procurei me desenvolver no uso de ferramentas para análise de conjuntos de dados em diferentes áreas, levando-me às experiências citadas abaixo.
 
 ---
 
-## Experiência
+## 💼 Experiência
 - **Estagiário em Geoprocessamento de Dados**: Durante o ano de 2024, pude atuar como estagiário em uma empresa instalada no Parque Tecnológico de Piracicaba. Neste período, desenvolvi atividades
 como automação de geração de PDF's, tratamento de dados de formatos diversos utilizando Python e Excel e manipulação de dados geográficos com softwares de GIS, como Qgis e ArcGIS Pro.
 
