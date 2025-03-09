@@ -21,9 +21,9 @@
 
 ---
 
-## Hard Skills
+## 🤖 Hard Skills
 
-### 🤖 Programming Languages and Technologies
+### Programming Languages and Technologies
 
 <img 
     align="left" 
@@ -78,3 +78,13 @@
 - **Microsoft Excel**: Data Manipulation and Data Analysis.
 - **Power BI**: Create reports and visual analytics to turn data into insights.
 - **Google Sheets**: Team Work, Data Manipulation and Data Analysis. 
+
+---
+
+## Soft Skills
+
+- **Sense of leadership**
+- **Analytical ability**
+- **Data-driven approachs**
+- **Team Work**
+- **Assertive communication**
