@@ -81,7 +81,7 @@
 
 ---
 
-## Soft Skills
+## 🙂 Soft Skills
 
 - **Sense of leadership**
 - **Analytical ability**
