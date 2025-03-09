@@ -2,10 +2,14 @@
 
 **`Analista de Dados`**
 
-Me chamo Antonio Augusto Cheirubim Santos, tenho 22 anos e sou natural do Paraná. Atuei como estagiário em Geoprocessamento de Dados em empresa localizada no Parque Tecnológico de Piracicaba - SP, onde pude
-desenvolver habilidades de manipulação de dados em formatos gerais e automação de tarefas utilizando Python. Atualmente, curso Mestrado em Agronomia, com foco no uso de tecnologias de Visão Computacional para
-classificação de doenças em plantas de interesse comercial.
- 
+Me chamo Antonio Augusto Cheirubim Santos, tenho 22 anos e sou natural do Paraná. 
+
+---
+
+## Experiência
+- **Estagiário em Geoprocessamento de Dados**: Durante o ano de 2024, pude atuar como estagiário em uma empresa instalada no Parque Tecnológico de Piracicaba. Neste período, desenvolvi atividades
+como automação de geração de PDF's, tratamento de dados de formatos diversos utilizando Python e Excel e manipulação de dados geográficos com softwares de GIS, como Qgis e ArcGIS Pro.
+- **Mestrando em Agronomia**: Atualmente, atuo como mestrando na Universidade Estadual de Londrina (UEL), desenvolvendo pesquisas na área de Visão Computacional aplicada à Agricultura.
 
 ---
 
