@@ -8,8 +8,13 @@ Desde meu ingresso na Universidade, procurei me desenvolver no uso de ferramenta
 ---
 
 ## 💼 Experiência
+
+**`Corporativa`**
+
 - **Estagiário em Geoprocessamento de Dados**: Durante o ano de 2024, pude atuar como estagiário em uma empresa instalada no Parque Tecnológico de Piracicaba. Neste período, desenvolvi atividades
 como automação de geração de PDF's, tratamento de dados de formatos diversos utilizando Python e Excel e manipulação de dados geográficos com softwares de GIS, como Qgis e ArcGIS Pro.
+
+**`Acadêmica`**
 
 - **Mestrando em Agronomia**: Atualmente, atuo como mestrando na Universidade Estadual de Londrina (UEL), desenvolvendo pesquisas na área de Visão Computacional aplicada à Agricultura.
 
