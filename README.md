@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Antonio Augusto C. Santos
 
-**`Analista de Dados`**
+**`Data Analyst`**
 
 - Hi! I'm Antonio. I'm 22 years old and I'm from Paraná.
 - With a strong analytical profile, I have a highly data-driven approach to problem-solving and decision-making.
@@ -9,22 +9,20 @@
 
 ---
 
-## 💼 Experiência
+💼 ##Experience
+**`Corporate`**
 
-**`Corporativa`**
+- **Geoprocessing Data Intern**: During the year 2024, I worked as an intern at a company located in the Piracicaba Technology Park - SP. During this period, I developed activities such as automating PDF generation, processing data in various formats using Python and Excel, and manipulating geographic data with GIS software like QGIS and ArcGIS Pro.
 
-- **Estagiário em Geoprocessamento de Dados**: Durante o ano de 2024, pude atuar como estagiário em uma empresa instalada no Parque Tecnológico de Piracicaba - SP. Neste período, desenvolvi atividades
-como automação de geração de PDF's, tratamento de dados de formatos diversos utilizando Python e Excel e manipulação de dados geográficos com softwares de GIS, como Qgis e ArcGIS Pro.
+**`Academic`**
 
-**`Acadêmica`**
-
-- **Mestrando em Agronomia**: Atualmente, atuo como mestrando na Universidade Estadual de Londrina (UEL), desenvolvendo pesquisas na área de Visão Computacional aplicada à Agricultura.
+- **Master's Student in Agronomy**: Currently, I am a master's student at the State University of Londrina (UEL), conducting research in the field of Computer Vision applied to Agriculture.
 
 ---
 
 ## Hard Skills
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programming Languages and Technologies
 
 <img 
     align="left" 
