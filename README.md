@@ -47,7 +47,14 @@ classificação de doenças em plantas de interesse comercial.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
-<i class="devicon-pandas-plain-wordmark"></i>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="devicon-pandas-plain-wordmark"
+/>
 
 <br/>
 <br/>
