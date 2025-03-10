@@ -13,7 +13,7 @@
 
 **`Corporate`**
 
-- **Geoprocessing Data Intern**: During the year 2024, I worked as an intern at a company located in the Piracicaba Technology Park - SP. During this period, I developed activities such as automating PDF generation, processing data in various formats using Python and Excel, and manipulating geographic data with GIS software like QGIS and ArcGIS Pro.
+- **Geoprocessing Data Intern**: During the year 2024, I worked as an intern at a company located in the Piracicaba Technology Park - SP. During this period, I developed activities such as manipulating geographic data with GIS softwares like QGIS and ArcGIS Pro, automating PDF generation with Python and processing data in various formats using Python to improve Machine Learning models performance.
 
 **`Academic`**
 
