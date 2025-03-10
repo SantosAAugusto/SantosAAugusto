@@ -77,7 +77,8 @@
 
 - **Microsoft Excel**: Data Manipulation and Data Analysis.
 - **Power BI**: Create reports and visual analytics to turn data into insights.
-- **Google Sheets**: Team Work, Data Manipulation and Data Analysis. 
+- **Google Sheets**: Team Work, Data Manipulation and Data Analysis
+- **ArcGIS Pro / QGIS**: Data Geoprocessing 
 
 ---
 
